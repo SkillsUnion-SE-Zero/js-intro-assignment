@@ -18,7 +18,7 @@ typeof(4.2);
 // Your Answer
 
 typeof("hello");
-// Your Answer
+// String
 
 typeof(false);
 // Your Answer
